@@ -1,3 +1,6 @@
+/**
+ * MergeSort algorithm for List&lt;T extends Comparable&lt;T&gt;&gt;
+ */
 import java.util.ArrayList;
 import java.util.List;
 
